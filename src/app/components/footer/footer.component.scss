@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-width: 100vw;
+    gap: 24px;
+    padding: 24px;
+    background-color: #333333
+}
+
+footer p {
+    color: #eee;
+    font-size: 12px;
+}
+
+footer img {
+    height: 30px;
+}
+
